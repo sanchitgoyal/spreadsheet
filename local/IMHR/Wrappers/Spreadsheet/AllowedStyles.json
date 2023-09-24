@@ -1,0 +1,5 @@
+{
+  "FONT": ["Arial", "Times New Roman", "Courier New", "Comic Sans MS"],
+  "FONT-STYLE": ["bold", "italic", "underline", "strikethrough", "multiple"],
+  "BORDER":["left, right, top, bottom"]
+}

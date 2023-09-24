@@ -1,0 +1,13 @@
+{
+    "name": "sgoyal/spreadsheet",
+    "type": "library",
+    "require": {
+        "mk-j/php_xlsxwriter": "^0.39.0"
+    },
+    "authors": [
+        {
+            "name": "Sanchit Goyal",
+            "email": "sanchit-goyal@uiowa.edu"
+        }
+    ]
+}
